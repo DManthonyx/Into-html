@@ -10,7 +10,7 @@
   <li></li>
 </ul>
 
-<h1>Key Terms to watch out for</h1>
+<h1>Key Terms</h1>
 <ul>
   <li>Element</li>
   <li>Tag</li>
@@ -28,7 +28,17 @@
 <p>This is what a typical Element looks like</p>
 <br >
 <div style="display: flex; justify-content: center;">
-  <img src="images/p.png"  width="80%"/>
+  <img src="images/fade-in.png"  width="80%"/>
 </div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="images/img.png"  width="80%"/>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img src="images/input.png"  width="80%"/>
+</div>
+
+
 
 
