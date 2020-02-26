@@ -25,7 +25,10 @@
 </div>
 <br >
 
-<p>This is what a typical Element looks like</p>
+<h1>Elements and Tags</h1>
+
+<p>A Element is a component of the document, elements are a tree of nodes that make up the document of what we see. This is what a typical Element looks like.</p>
+<p>Tags are what make up these element. Most elements have closing and opening tags.</p>
 <br >
 <div style="display: flex; justify-content: center;">
   <img src="images/fade-in.png"  width="80%"/>
