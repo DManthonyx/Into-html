@@ -47,6 +47,12 @@
   <img src="images/input.png"  width="80%"/>
 </div>
 
+<h1>More commonly used elements</h1>
+<div style="display: flex; justify-content: center;">
+  <img src="images/element.png"  width="80%"/>
+</div>
+
+
 
 
 
