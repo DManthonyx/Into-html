@@ -6,8 +6,6 @@
 <ul>
   <li>Understand the purpose of HTML</li>
   <li>How to structure a document</li>
-  <li>Attribues</li>
-  <li></li>
 </ul>
 
 <h1>Key Terms</h1>
@@ -47,12 +45,16 @@
   <img src="images/input.png"  width="80%"/>
 </div>
 
-<h1>More commonly used elements</h1>
+<br >
 <div style="display: flex; justify-content: center;">
   <img src="images/element.png"  width="80%"/>
 </div>
 
-
-
-
-
+<br >
+<h1>Key Takeaways</h1>
+<ul>
+  <li>What is HTML</li>
+  <li>ELEMENTS Purpose</li>
+  <li>What is the difference between TAGS and ELEMENTS</li>
+  <li>What are ATTRIBUTES</li>
+</ul>
